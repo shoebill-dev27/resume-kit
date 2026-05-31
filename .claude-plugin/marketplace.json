@@ -1,5 +1,6 @@
 {
   "name": "resume-kit-marketplace",
+  "description": "Distribution point for resume-kit: read-only Claude Code session-orientation skills (/whereami and /resume) with bilingual EN/JA triggers.",
   "owner": {
     "name": "shoebill-dev27"
   },
