@@ -1,0 +1,9 @@
+{
+  "name": "resume-kit",
+  "version": "0.1.0",
+  "description": "Two lightweight, read-only orientation skills for the start of a coding session: /whereami (status report) and /resume (orient, then continue). English command names with bilingual EN/JA natural-language triggers.",
+  "author": {
+    "name": "shoebill-dev27"
+  },
+  "keywords": ["resume", "status", "session", "orientation", "bilingual"]
+}

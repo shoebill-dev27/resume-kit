@@ -1,0 +1,13 @@
+{
+  "name": "resume-kit-marketplace",
+  "owner": {
+    "name": "shoebill-dev27"
+  },
+  "plugins": [
+    {
+      "name": "resume-kit",
+      "source": "./",
+      "description": "/whereami and /resume — bilingual (EN/JA) session-orientation skills."
+    }
+  ]
+}
